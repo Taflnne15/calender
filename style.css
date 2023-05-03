@@ -1,0 +1,31 @@
+h1 {
+    
+text-align: center;
+    color: black;
+    font-weight: bold;
+    
+}
+th{
+
+color: black;
+}
+ body{
+
+    background-color: lightpink;
+ }
+ .table{
+
+    margin-top: 30px;
+ }
+  tr th {
+    color: white;
+ }
+
+ .btn {
+    background-color: transparent;
+    border: none;
+ }
+
+ .btn:hover {
+    background-color: aqua;
+ }
